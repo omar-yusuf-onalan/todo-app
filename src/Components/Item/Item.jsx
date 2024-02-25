@@ -1,5 +1,3 @@
-import { useRef, useEffect, useState } from "react";
-
 import "./Item.style.css";
 
 function Item({ item, items, setItems }) {
